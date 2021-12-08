@@ -27,7 +27,7 @@ returns items from db.json object.
 ```
 ## /companies
 
-returns items from db.json object.
+returns companies from db.json object.
 ``` json
 [
   {
